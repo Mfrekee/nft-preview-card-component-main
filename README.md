@@ -31,8 +31,8 @@ Users should be able to:
 ![Screen Resolution of 768px](./Screenshot3.jpeg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here's my solution on FrontEnd Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html-and-css-zyeaIVEUCB)
+- Live Site URL: [Here's the main webpage](https://mfrekee.github.io/nft-preview-card-component-main/)
 
 
 ## My process
